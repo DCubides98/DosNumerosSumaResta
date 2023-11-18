@@ -24,7 +24,5 @@ public static void main (String[] args) {
 }
 
 scanner.close();
-
 }
-
 }
